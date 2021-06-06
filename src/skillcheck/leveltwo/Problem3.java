@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-class Solution {
+class Problem3 {
     public String solution(String s) {
         String[] array = s.split(" ");
 
