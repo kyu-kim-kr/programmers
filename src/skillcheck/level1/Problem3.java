@@ -1,4 +1,4 @@
-package skillcheck.levelone;
+package skillcheck.level1;
 
 class Problem3 {
     public int[][] solution(int[][] arr1, int[][] arr2) {

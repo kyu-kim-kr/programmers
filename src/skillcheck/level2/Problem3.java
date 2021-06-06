@@ -1,4 +1,4 @@
-package skillcheck.leveltwo;
+package skillcheck.level2;
 
 import java.util.ArrayList;
 import java.util.Collections;

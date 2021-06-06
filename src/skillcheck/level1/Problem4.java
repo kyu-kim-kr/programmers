@@ -1,4 +1,4 @@
-package skillcheck.levelone;
+package skillcheck.level1;
 
 class Problem4 {
     public String solution(String s) {
