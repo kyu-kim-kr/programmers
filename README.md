@@ -8,7 +8,7 @@
 현재 레벨 2 까지 패스 완료한 상태입니다. <br>
 레벨 3 은 패스 실패했지만 어떤 방식으로 시도했는지 작성해보았습니다.
 
-- [Level 1 README](https://github.com/kyu-kim-kr/programmers/tree/master/src/skillcheck/level1) (2번 시도)
+- [Level 1 README](https://github.com/kyu-kim-kr/programmers/tree/master/src/skillcheck/level1)
   * [Problem 1](https://github.com/kyu-kim-kr/programmers/blob/master/src/skillcheck/level1/Problem1.java)
   * [Problem 2](https://github.com/kyu-kim-kr/programmers/blob/master/src/skillcheck/level1/Problem2.java)
   * [Problem 3](https://github.com/kyu-kim-kr/programmers/blob/master/src/skillcheck/level1/Problem3.java)
@@ -16,7 +16,7 @@
   
 <br>
 
-- [Level 2 README](https://github.com/kyu-kim-kr/programmers/tree/master/src/skillcheck/level2) (4번 시도)
+- [Level 2 README](https://github.com/kyu-kim-kr/programmers/tree/master/src/skillcheck/level2)
   * [Problem 2](https://github.com/kyu-kim-kr/programmers/blob/master/src/skillcheck/level2/Problem2.java)
   * [Problem 3](https://github.com/kyu-kim-kr/programmers/blob/master/src/skillcheck/level2/Problem3.java)
   * [Problem 4](https://github.com/kyu-kim-kr/programmers/blob/master/src/skillcheck/level2/Problem4.java)
@@ -25,9 +25,9 @@
 
 <br>
 
-- [Level 3 README](https://github.com/kyu-kim-kr/programmers/tree/master/src/skillcheck/level3) (2번 시도 / 실패)
+- [Level 3 README](https://github.com/kyu-kim-kr/programmers/tree/master/src/skillcheck/level3
   * [Problem 1](https://github.com/kyu-kim-kr/programmers/blob/master/src/skillcheck/level3/Problem1.java)
-  * Problem 2 (코드 없음)
+  * Problem 2
 
 <br>
 
